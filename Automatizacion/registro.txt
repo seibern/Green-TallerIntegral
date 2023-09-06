@@ -1,0 +1,4 @@
+
+Prueba 2: Error durante ejecución prueba 2
+Prueba 2: Sistema no permite completa el campo de fecha de regreso con una fecha menor a la seleccionada para ida
+Prueba 2: Sistema no permite completa el campo de fecha de regreso con una fecha menor a la seleccionada para ida
